@@ -1,5 +1,7 @@
 ## Discord Bot!
 
+**Atualização por parte do Wordpress**
+
 **A personal project using some tools like node.js and others for a bot on discord**
 
 This bot will be responsible for its own host, for Discord membership.<br>
